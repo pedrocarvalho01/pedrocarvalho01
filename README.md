@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python Pandas
 - 💞️ I’m looking to collaborate on any BI and Data Engineering project
 - 📫 How to reach me at [linkedin](https://www.linkedin.com/in/p3drocarvalho/)
-- 👀 Also check my blog at pedroanalytics.com
+- 👀 Also check my blog at [pedroanalytics.com](https://pedroanalytics.com/)
 
 <!---
 pedrocarvalho01/pedrocarvalho01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
